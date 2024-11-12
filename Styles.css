@@ -1,0 +1,14 @@
+.Pingu {margin: 50px;
+width:500px;
+height:500px;
+border:30px groove;
+border-color:lightblue;
+background-image: url(d7106b1f0ef552b1a88a9ce9ee1ded54.jpg);
+background-size: 500px 500px;}
+
+#texto {text-align: center;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+color: white;
+padding:200px}
+
